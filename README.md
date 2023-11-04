@@ -1,4 +1,4 @@
-# Walmart---Confidence-Interval-and-Central-Limit-Theoram
+# Walmart-Confidence-Interval-and-Central-Limit-Theoram
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. 
 
 Defining Problem Statement and Analyzing basic metrics
